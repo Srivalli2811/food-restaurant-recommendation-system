@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,cuisine,area,price_level,rating,delivery_time_min,ambience,dietary_type,tags
+1,Restaurant 001,North Indian,East,3,4.66,33,Casual,Vegetarian,North Indian East Casual Vegetarian price_3
+2,Restaurant 002,Cafe,Riverside,1,3.99,34,Premium,Vegetarian,Cafe Riverside Premium Vegetarian price_1
+3,Restaurant 003,Biryani,Central,2,4.26,35,Cafe,Mixed,Biryani Central Cafe Mixed price_2
+4,Restaurant 004,Mexican,Riverside,2,3.02,37,Family,Vegetarian,Mexican Riverside Family Vegetarian price_2
+5,Restaurant 005,Mexican,Tech Park,3,3.58,44,Casual,Vegetarian,Mexican Tech Park Casual Vegetarian price_3
+6,Restaurant 006,Desserts,North,2,3.97,24,Quick Bites,Vegetarian,Desserts North Quick Bites Vegetarian price_2
+7,Restaurant 007,North Indian,East,2,3.62,23,Casual,Vegetarian,North Indian East Casual Vegetarian price_2
+8,Restaurant 008,Biryani,Tech Park,2,4.42,24,Family,Vegetarian,Biryani Tech Park Family Vegetarian price_2
+9,Restaurant 009,Chinese,East,1,5.0,38,Premium,Vegan Friendly,Chinese East Premium Vegan Friendly price_1
+10,Restaurant 010,North Indian,North,1,3.57,47,Quick Bites,Vegetarian,North Indian North Quick Bites Vegetarian price_1
+11,Restaurant 011,Thai,Market,2,3.72,31,Quick Bites,Mixed,Thai Market Quick Bites Mixed price_2
+12,Restaurant 012,Fast Food,Market,2,4.21,15,Cafe,Vegan Friendly,Fast Food Market Cafe Vegan Friendly price_2
+13,Restaurant 013,Cafe,North,1,4.83,18,Fine Dining,Vegetarian,Cafe North Fine Dining Vegetarian price_1
+14,Restaurant 014,Cafe,South,2,3.55,27,Casual,Mixed,Cafe South Casual Mixed price_2
+15,Restaurant 015,Cafe,South,2,4.21,29,Premium,Mixed,Cafe South Premium Mixed price_2
+16,Restaurant 016,Cafe,Market,2,4.92,31,Casual,Mixed,Cafe Market Casual Mixed price_2
+17,Restaurant 017,Thai,University,2,3.36,35,Casual,Vegetarian,Thai University Casual Vegetarian price_2
+18,Restaurant 018,South Indian,University,3,3.52,32,Family,Vegetarian,South Indian University Family Vegetarian price_3
+19,Restaurant 019,Desserts,Airport,2,3.91,45,Quick Bites,Vegetarian,Desserts Airport Quick Bites Vegetarian price_2
+20,Restaurant 020,Mexican,University,4,3.87,28,Fine Dining,Mixed,Mexican University Fine Dining Mixed price_4
+21,Restaurant 021,Thai,East,4,4.47,26,Cafe,Vegan Friendly,Thai East Cafe Vegan Friendly price_4
+22,Restaurant 022,Italian,North,2,4.21,40,Quick Bites,Vegan Friendly,Italian North Quick Bites Vegan Friendly price_2
+23,Restaurant 023,South Indian,Market,2,3.3,20,Cafe,Vegetarian,South Indian Market Cafe Vegetarian price_2
+24,Restaurant 024,Fast Food,Airport,2,4.33,39,Family,Mixed,Fast Food Airport Family Mixed price_2
+25,Restaurant 025,Cafe,Airport,3,3.84,36,Fine Dining,Vegetarian,Cafe Airport Fine Dining Vegetarian price_3
+26,Restaurant 026,Biryani,South,2,4.67,34,Fine Dining,Vegan Friendly,Biryani South Fine Dining Vegan Friendly price_2
+27,Restaurant 027,Mexican,South,3,3.82,51,Casual,Vegetarian,Mexican South Casual Vegetarian price_3
+28,Restaurant 028,Desserts,Central,2,3.81,29,Premium,Vegan Friendly,Desserts Central Premium Vegan Friendly price_2
+29,Restaurant 029,Thai,North,2,4.34,56,Cafe,Mixed,Thai North Cafe Mixed price_2
+30,Restaurant 030,Mexican,Tech Park,2,4.44,33,Premium,Vegetarian,Mexican Tech Park Premium Vegetarian price_2
+31,Restaurant 031,Mexican,Tech Park,3,4.3,22,Fine Dining,Vegetarian,Mexican Tech Park Fine Dining Vegetarian price_3
+32,Restaurant 032,Chinese,East,1,3.34,36,Fine Dining,Mixed,Chinese East Fine Dining Mixed price_1
+33,Restaurant 033,North Indian,East,3,4.34,24,Premium,Vegetarian,North Indian East Premium Vegetarian price_3
+34,Restaurant 034,Thai,Riverside,3,3.63,27,Casual,Mixed,Thai Riverside Casual Mixed price_3
+35,Restaurant 035,Desserts,West,1,4.21,39,Premium,Vegan Friendly,Desserts West Premium Vegan Friendly price_1
+36,Restaurant 036,North Indian,Riverside,2,3.46,41,Family,Mixed,North Indian Riverside Family Mixed price_2
+37,Restaurant 037,Desserts,Airport,1,4.3,29,Premium,Vegetarian,Desserts Airport Premium Vegetarian price_1
+38,Restaurant 038,Desserts,East,3,3.74,45,Quick Bites,Vegetarian,Desserts East Quick Bites Vegetarian price_3
+39,Restaurant 039,Chinese,South,1,3.52,47,Premium,Vegetarian,Chinese South Premium Vegetarian price_1
+40,Restaurant 040,Biryani,Airport,4,4.42,49,Family,Vegan Friendly,Biryani Airport Family Vegan Friendly price_4
+41,Restaurant 041,South Indian,Market,1,4.21,40,Family,Vegetarian,South Indian Market Family Vegetarian price_1
+42,Restaurant 042,Cafe,South,4,3.82,49,Cafe,Vegetarian,Cafe South Cafe Vegetarian price_4
+43,Restaurant 043,Cafe,Market,3,4.75,16,Casual,Vegetarian,Cafe Market Casual Vegetarian price_3
+44,Restaurant 044,Italian,Tech Park,2,3.9,32,Family,Vegan Friendly,Italian Tech Park Family Vegan Friendly price_2
+45,Restaurant 045,North Indian,Airport,3,4.11,26,Fine Dining,Vegetarian,North Indian Airport Fine Dining Vegetarian price_3
+46,Restaurant 046,Fast Food,South,3,4.22,36,Casual,Mixed,Fast Food South Casual Mixed price_3
+47,Restaurant 047,Mexican,Airport,4,3.82,29,Premium,Mixed,Mexican Airport Premium Mixed price_4
+48,Restaurant 048,Desserts,Airport,1,4.31,33,Family,Mixed,Desserts Airport Family Mixed price_1
+49,Restaurant 049,Biryani,North,2,3.86,54,Casual,Vegan Friendly,Biryani North Casual Vegan Friendly price_2
+50,Restaurant 050,Cafe,North,1,3.91,33,Premium,Mixed,Cafe North Premium Mixed price_1
+51,Restaurant 051,Cafe,Tech Park,2,4.71,39,Quick Bites,Vegan Friendly,Cafe Tech Park Quick Bites Vegan Friendly price_2
+52,Restaurant 052,South Indian,Central,1,3.63,33,Family,Vegetarian,South Indian Central Family Vegetarian price_1
+53,Restaurant 053,Italian,South,2,3.01,36,Casual,Mixed,Italian South Casual Mixed price_2
+54,Restaurant 054,Mexican,West,2,4.82,35,Casual,Mixed,Mexican West Casual Mixed price_2
+55,Restaurant 055,Mexican,Airport,2,5.0,39,Quick Bites,Mixed,Mexican Airport Quick Bites Mixed price_2
+56,Restaurant 056,North Indian,Airport,2,3.92,47,Fine Dining,Vegan Friendly,North Indian Airport Fine Dining Vegan Friendly price_2
+57,Restaurant 057,Thai,North,3,3.23,51,Family,Vegan Friendly,Thai North Family Vegan Friendly price_3
+58,Restaurant 058,South Indian,Riverside,3,3.96,38,Family,Mixed,South Indian Riverside Family Mixed price_3
+59,Restaurant 059,Cafe,Central,2,3.97,41,Premium,Mixed,Cafe Central Premium Mixed price_2
+60,Restaurant 060,Biryani,University,2,4.01,23,Premium,Vegetarian,Biryani University Premium Vegetarian price_2
+61,Restaurant 061,Fast Food,Riverside,4,3.6,34,Family,Vegetarian,Fast Food Riverside Family Vegetarian price_4
+62,Restaurant 062,Cafe,Riverside,1,4.36,44,Casual,Vegetarian,Cafe Riverside Casual Vegetarian price_1
+63,Restaurant 063,Italian,South,1,4.34,44,Quick Bites,Vegetarian,Italian South Quick Bites Vegetarian price_1
+64,Restaurant 064,Fast Food,Riverside,1,3.43,37,Premium,Vegetarian,Fast Food Riverside Premium Vegetarian price_1
+65,Restaurant 065,Mexican,North,2,4.41,44,Premium,Vegetarian,Mexican North Premium Vegetarian price_2
+66,Restaurant 066,Italian,Tech Park,2,5.0,40,Family,Mixed,Italian Tech Park Family Mixed price_2
+67,Restaurant 067,Fast Food,West,3,4.18,47,Fine Dining,Vegetarian,Fast Food West Fine Dining Vegetarian price_3
+68,Restaurant 068,Italian,East,3,3.95,38,Quick Bites,Vegan Friendly,Italian East Quick Bites Vegan Friendly price_3
+69,Restaurant 069,North Indian,Central,2,4.04,31,Premium,Mixed,North Indian Central Premium Mixed price_2
+70,Restaurant 070,Mexican,University,3,4.38,38,Family,Vegetarian,Mexican University Family Vegetarian price_3
+71,Restaurant 071,Cafe,East,3,3.32,15,Cafe,Vegetarian,Cafe East Cafe Vegetarian price_3
+72,Restaurant 072,South Indian,Market,1,4.17,39,Fine Dining,Vegetarian,South Indian Market Fine Dining Vegetarian price_1
+73,Restaurant 073,Mexican,West,2,3.92,15,Casual,Vegan Friendly,Mexican West Casual Vegan Friendly price_2
+74,Restaurant 074,South Indian,East,2,4.93,18,Fine Dining,Vegetarian,South Indian East Fine Dining Vegetarian price_2
+75,Restaurant 075,Biryani,Riverside,1,4.02,40,Cafe,Mixed,Biryani Riverside Cafe Mixed price_1
+76,Restaurant 076,Mexican,Central,1,4.85,40,Casual,Vegan Friendly,Mexican Central Casual Vegan Friendly price_1
+77,Restaurant 077,Italian,University,4,3.6,23,Cafe,Vegan Friendly,Italian University Cafe Vegan Friendly price_4
+78,Restaurant 078,Chinese,University,2,4.36,28,Casual,Vegetarian,Chinese University Casual Vegetarian price_2
+79,Restaurant 079,Thai,East,2,4.24,49,Casual,Vegetarian,Thai East Casual Vegetarian price_2
+80,Restaurant 080,Biryani,South,3,3.71,30,Casual,Vegetarian,Biryani South Casual Vegetarian price_3
+81,Restaurant 081,Fast Food,Central,2,4.18,57,Premium,Vegetarian,Fast Food Central Premium Vegetarian price_2
+82,Restaurant 082,Mexican,Airport,4,4.65,35,Quick Bites,Vegetarian,Mexican Airport Quick Bites Vegetarian price_4
+83,Restaurant 083,South Indian,Airport,3,3.95,39,Premium,Mixed,South Indian Airport Premium Mixed price_3
+84,Restaurant 084,Desserts,South,2,3.34,51,Casual,Vegan Friendly,Desserts South Casual Vegan Friendly price_2
+85,Restaurant 085,Biryani,Central,2,4.09,36,Family,Mixed,Biryani Central Family Mixed price_2
+86,Restaurant 086,Cafe,North,4,3.69,25,Fine Dining,Mixed,Cafe North Fine Dining Mixed price_4
+87,Restaurant 087,North Indian,Central,3,3.95,34,Fine Dining,Vegetarian,North Indian Central Fine Dining Vegetarian price_3
+88,Restaurant 088,Italian,Riverside,4,4.06,35,Cafe,Mixed,Italian Riverside Cafe Mixed price_4
+89,Restaurant 089,Cafe,Riverside,1,3.33,21,Casual,Mixed,Cafe Riverside Casual Mixed price_1
+90,Restaurant 090,Desserts,North,3,3.37,32,Cafe,Mixed,Desserts North Cafe Mixed price_3
+91,Restaurant 091,Mexican,University,2,4.32,28,Cafe,Vegan Friendly,Mexican University Cafe Vegan Friendly price_2
+92,Restaurant 092,Desserts,North,1,3.86,44,Quick Bites,Vegetarian,Desserts North Quick Bites Vegetarian price_1
+93,Restaurant 093,Desserts,East,2,2.95,35,Casual,Vegetarian,Desserts East Casual Vegetarian price_2
+94,Restaurant 094,Italian,Tech Park,3,4.45,32,Fine Dining,Vegetarian,Italian Tech Park Fine Dining Vegetarian price_3
+95,Restaurant 095,Desserts,University,1,4.22,34,Premium,Vegetarian,Desserts University Premium Vegetarian price_1
+96,Restaurant 096,Chinese,Riverside,2,3.78,37,Casual,Vegan Friendly,Chinese Riverside Casual Vegan Friendly price_2
+97,Restaurant 097,Chinese,Central,3,3.51,41,Family,Vegetarian,Chinese Central Family Vegetarian price_3
+98,Restaurant 098,Biryani,North,2,4.48,25,Premium,Mixed,Biryani North Premium Mixed price_2
+99,Restaurant 099,Biryani,South,2,4.26,25,Casual,Mixed,Biryani South Casual Mixed price_2
+100,Restaurant 100,South Indian,East,2,5.0,46,Family,Vegetarian,South Indian East Family Vegetarian price_2
+101,Restaurant 101,Desserts,Airport,2,4.29,31,Premium,Vegetarian,Desserts Airport Premium Vegetarian price_2
+102,Restaurant 102,South Indian,University,4,4.27,21,Fine Dining,Mixed,South Indian University Fine Dining Mixed price_4
+103,Restaurant 103,Desserts,East,3,4.02,39,Casual,Mixed,Desserts East Casual Mixed price_3
+104,Restaurant 104,North Indian,Airport,1,4.47,40,Quick Bites,Vegetarian,North Indian Airport Quick Bites Vegetarian price_1
+105,Restaurant 105,Cafe,West,4,4.38,20,Fine Dining,Vegetarian,Cafe West Fine Dining Vegetarian price_4
+106,Restaurant 106,Cafe,Tech Park,3,4.66,37,Cafe,Mixed,Cafe Tech Park Cafe Mixed price_3
+107,Restaurant 107,Cafe,West,2,3.87,42,Fine Dining,Vegetarian,Cafe West Fine Dining Vegetarian price_2
+108,Restaurant 108,Biryani,North,3,3.9,39,Family,Vegan Friendly,Biryani North Family Vegan Friendly price_3
+109,Restaurant 109,Mexican,Airport,1,3.88,41,Cafe,Vegetarian,Mexican Airport Cafe Vegetarian price_1
+110,Restaurant 110,Cafe,Central,4,4.46,21,Fine Dining,Vegetarian,Cafe Central Fine Dining Vegetarian price_4
+111,Restaurant 111,Chinese,North,3,4.77,38,Family,Mixed,Chinese North Family Mixed price_3
+112,Restaurant 112,Cafe,South,2,3.89,32,Premium,Mixed,Cafe South Premium Mixed price_2
+113,Restaurant 113,Thai,South,1,3.91,30,Quick Bites,Mixed,Thai South Quick Bites Mixed price_1
+114,Restaurant 114,Mexican,North,3,4.24,44,Premium,Vegetarian,Mexican North Premium Vegetarian price_3
+115,Restaurant 115,Thai,Central,1,3.99,50,Family,Vegan Friendly,Thai Central Family Vegan Friendly price_1
+116,Restaurant 116,Thai,Market,1,4.53,53,Fine Dining,Mixed,Thai Market Fine Dining Mixed price_1
+117,Restaurant 117,North Indian,Airport,1,3.09,48,Fine Dining,Vegetarian,North Indian Airport Fine Dining Vegetarian price_1
+118,Restaurant 118,South Indian,North,3,3.73,34,Premium,Vegetarian,South Indian North Premium Vegetarian price_3
+119,Restaurant 119,Chinese,South,1,3.75,39,Cafe,Vegetarian,Chinese South Cafe Vegetarian price_1
+120,Restaurant 120,South Indian,Tech Park,4,3.06,43,Premium,Mixed,South Indian Tech Park Premium Mixed price_4
+121,Restaurant 121,Mexican,Airport,2,3.67,36,Cafe,Vegetarian,Mexican Airport Cafe Vegetarian price_2
+122,Restaurant 122,Biryani,Market,1,3.69,36,Quick Bites,Mixed,Biryani Market Quick Bites Mixed price_1
+123,Restaurant 123,Biryani,University,1,4.01,43,Premium,Vegetarian,Biryani University Premium Vegetarian price_1
+124,Restaurant 124,Mexican,Tech Park,1,4.6,34,Casual,Vegan Friendly,Mexican Tech Park Casual Vegan Friendly price_1
+125,Restaurant 125,Desserts,West,2,3.99,28,Quick Bites,Vegetarian,Desserts West Quick Bites Vegetarian price_2
+126,Restaurant 126,Thai,North,3,3.64,31,Family,Vegan Friendly,Thai North Family Vegan Friendly price_3
+127,Restaurant 127,North Indian,Riverside,1,4.07,41,Family,Vegetarian,North Indian Riverside Family Vegetarian price_1
+128,Restaurant 128,Cafe,Riverside,3,4.57,35,Family,Vegetarian,Cafe Riverside Family Vegetarian price_3
+129,Restaurant 129,Thai,Central,1,3.66,38,Fine Dining,Mixed,Thai Central Fine Dining Mixed price_1
+130,Restaurant 130,Biryani,University,3,3.69,42,Casual,Mixed,Biryani University Casual Mixed price_3
+131,Restaurant 131,Thai,Central,4,4.35,31,Cafe,Mixed,Thai Central Cafe Mixed price_4
+132,Restaurant 132,Thai,University,3,4.0,43,Fine Dining,Vegetarian,Thai University Fine Dining Vegetarian price_3
+133,Restaurant 133,North Indian,Riverside,3,4.39,39,Casual,Mixed,North Indian Riverside Casual Mixed price_3
+134,Restaurant 134,Thai,North,3,4.09,23,Quick Bites,Mixed,Thai North Quick Bites Mixed price_3
+135,Restaurant 135,Cafe,West,1,4.42,49,Quick Bites,Mixed,Cafe West Quick Bites Mixed price_1
+136,Restaurant 136,Italian,North,1,3.63,30,Premium,Vegetarian,Italian North Premium Vegetarian price_1
+137,Restaurant 137,Biryani,Tech Park,1,4.09,18,Cafe,Mixed,Biryani Tech Park Cafe Mixed price_1
+138,Restaurant 138,North Indian,Airport,2,4.01,25,Premium,Mixed,North Indian Airport Premium Mixed price_2
+139,Restaurant 139,Italian,Central,3,3.55,25,Premium,Vegan Friendly,Italian Central Premium Vegan Friendly price_3
+140,Restaurant 140,Mexican,East,2,3.4,36,Premium,Vegetarian,Mexican East Premium Vegetarian price_2
+141,Restaurant 141,Fast Food,Airport,3,4.41,32,Cafe,Vegetarian,Fast Food Airport Cafe Vegetarian price_3
+142,Restaurant 142,Chinese,East,1,3.94,32,Quick Bites,Mixed,Chinese East Quick Bites Mixed price_1
+143,Restaurant 143,Chinese,North,3,3.64,41,Premium,Mixed,Chinese North Premium Mixed price_3
+144,Restaurant 144,Mexican,West,1,4.06,38,Fine Dining,Mixed,Mexican West Fine Dining Mixed price_1
+145,Restaurant 145,Fast Food,Tech Park,1,4.61,38,Cafe,Vegetarian,Fast Food Tech Park Cafe Vegetarian price_1
+146,Restaurant 146,Desserts,Market,3,3.07,39,Fine Dining,Vegetarian,Desserts Market Fine Dining Vegetarian price_3
+147,Restaurant 147,North Indian,East,4,3.43,41,Cafe,Mixed,North Indian East Cafe Mixed price_4
+148,Restaurant 148,Chinese,Airport,2,3.68,15,Premium,Vegetarian,Chinese Airport Premium Vegetarian price_2
+149,Restaurant 149,Desserts,Tech Park,1,4.76,31,Cafe,Vegetarian,Desserts Tech Park Cafe Vegetarian price_1
+150,Restaurant 150,North Indian,South,2,4.23,15,Family,Mixed,North Indian South Family Mixed price_2
+151,Restaurant 151,Desserts,Airport,1,4.45,35,Family,Mixed,Desserts Airport Family Mixed price_1
+152,Restaurant 152,Chinese,Airport,3,3.59,35,Premium,Vegan Friendly,Chinese Airport Premium Vegan Friendly price_3
+153,Restaurant 153,Fast Food,West,3,3.6,45,Fine Dining,Vegetarian,Fast Food West Fine Dining Vegetarian price_3
+154,Restaurant 154,Chinese,Central,1,4.3,47,Quick Bites,Vegetarian,Chinese Central Quick Bites Vegetarian price_1
+155,Restaurant 155,Mexican,Tech Park,1,4.13,37,Premium,Vegan Friendly,Mexican Tech Park Premium Vegan Friendly price_1
+156,Restaurant 156,Biryani,Tech Park,1,4.35,30,Premium,Vegetarian,Biryani Tech Park Premium Vegetarian price_1
+157,Restaurant 157,South Indian,North,4,4.02,40,Family,Vegetarian,South Indian North Family Vegetarian price_4
+158,Restaurant 158,Thai,Market,2,4.23,30,Quick Bites,Vegetarian,Thai Market Quick Bites Vegetarian price_2
+159,Restaurant 159,Thai,Riverside,3,4.17,35,Premium,Mixed,Thai Riverside Premium Mixed price_3
+160,Restaurant 160,Cafe,North,2,4.45,45,Quick Bites,Vegan Friendly,Cafe North Quick Bites Vegan Friendly price_2
+161,Restaurant 161,Fast Food,University,2,4.46,29,Premium,Mixed,Fast Food University Premium Mixed price_2
+162,Restaurant 162,Biryani,North,1,3.37,43,Family,Mixed,Biryani North Family Mixed price_1
+163,Restaurant 163,Mexican,University,4,3.09,42,Fine Dining,Vegetarian,Mexican University Fine Dining Vegetarian price_4
+164,Restaurant 164,Mexican,West,2,4.55,25,Premium,Vegetarian,Mexican West Premium Vegetarian price_2
+165,Restaurant 165,Mexican,Central,2,4.63,45,Casual,Vegetarian,Mexican Central Casual Vegetarian price_2
+166,Restaurant 166,Desserts,Airport,3,3.64,42,Premium,Vegetarian,Desserts Airport Premium Vegetarian price_3
+167,Restaurant 167,Italian,North,2,3.26,36,Quick Bites,Vegetarian,Italian North Quick Bites Vegetarian price_2
+168,Restaurant 168,South Indian,Tech Park,4,4.14,27,Casual,Vegetarian,South Indian Tech Park Casual Vegetarian price_4
+169,Restaurant 169,Italian,North,1,4.52,26,Family,Vegetarian,Italian North Family Vegetarian price_1
+170,Restaurant 170,North Indian,Airport,2,4.91,30,Casual,Mixed,North Indian Airport Casual Mixed price_2
+171,Restaurant 171,South Indian,University,2,4.33,40,Quick Bites,Mixed,South Indian University Quick Bites Mixed price_2
+172,Restaurant 172,North Indian,Riverside,2,3.93,25,Cafe,Vegetarian,North Indian Riverside Cafe Vegetarian price_2
+173,Restaurant 173,Cafe,West,1,3.7,39,Fine Dining,Mixed,Cafe West Fine Dining Mixed price_1
+174,Restaurant 174,Cafe,West,1,4.11,23,Premium,Mixed,Cafe West Premium Mixed price_1
+175,Restaurant 175,Biryani,Market,1,3.97,33,Fine Dining,Mixed,Biryani Market Fine Dining Mixed price_1
+176,Restaurant 176,Mexican,University,2,3.64,36,Family,Mixed,Mexican University Family Mixed price_2
+177,Restaurant 177,Cafe,Riverside,2,5.0,59,Cafe,Vegetarian,Cafe Riverside Cafe Vegetarian price_2
+178,Restaurant 178,South Indian,Central,2,4.9,21,Quick Bites,Mixed,South Indian Central Quick Bites Mixed price_2
+179,Restaurant 179,Fast Food,Market,2,4.61,50,Cafe,Vegetarian,Fast Food Market Cafe Vegetarian price_2
+180,Restaurant 180,Thai,North,2,3.69,36,Cafe,Vegetarian,Thai North Cafe Vegetarian price_2
+181,Restaurant 181,Fast Food,South,2,4.48,39,Quick Bites,Vegetarian,Fast Food South Quick Bites Vegetarian price_2
+182,Restaurant 182,South Indian,Riverside,1,4.39,36,Family,Vegetarian,South Indian Riverside Family Vegetarian price_1
+183,Restaurant 183,Mexican,South,2,4.3,39,Quick Bites,Vegetarian,Mexican South Quick Bites Vegetarian price_2
+184,Restaurant 184,Biryani,University,2,4.66,33,Cafe,Vegetarian,Biryani University Cafe Vegetarian price_2
+185,Restaurant 185,Mexican,West,1,4.39,50,Fine Dining,Mixed,Mexican West Fine Dining Mixed price_1
+186,Restaurant 186,Mexican,South,2,4.43,30,Fine Dining,Vegetarian,Mexican South Fine Dining Vegetarian price_2
+187,Restaurant 187,South Indian,East,2,4.39,46,Family,Vegetarian,South Indian East Family Vegetarian price_2
+188,Restaurant 188,Italian,Tech Park,1,4.25,29,Quick Bites,Vegetarian,Italian Tech Park Quick Bites Vegetarian price_1
+189,Restaurant 189,Chinese,University,2,3.3,34,Casual,Vegetarian,Chinese University Casual Vegetarian price_2
+190,Restaurant 190,Italian,Market,2,4.14,24,Cafe,Vegetarian,Italian Market Cafe Vegetarian price_2
+191,Restaurant 191,Biryani,Airport,3,3.85,40,Fine Dining,Vegetarian,Biryani Airport Fine Dining Vegetarian price_3
+192,Restaurant 192,Biryani,Riverside,2,3.52,49,Casual,Vegetarian,Biryani Riverside Casual Vegetarian price_2
+193,Restaurant 193,Biryani,University,2,4.86,34,Quick Bites,Mixed,Biryani University Quick Bites Mixed price_2
+194,Restaurant 194,Italian,Market,2,4.88,33,Fine Dining,Vegan Friendly,Italian Market Fine Dining Vegan Friendly price_2
+195,Restaurant 195,Fast Food,South,3,4.71,24,Fine Dining,Mixed,Fast Food South Fine Dining Mixed price_3
+196,Restaurant 196,North Indian,West,2,4.21,33,Premium,Mixed,North Indian West Premium Mixed price_2
+197,Restaurant 197,Italian,North,2,4.71,19,Casual,Mixed,Italian North Casual Mixed price_2
+198,Restaurant 198,South Indian,East,2,4.11,26,Fine Dining,Vegan Friendly,South Indian East Fine Dining Vegan Friendly price_2
+199,Restaurant 199,Italian,Airport,2,4.19,37,Fine Dining,Mixed,Italian Airport Fine Dining Mixed price_2
+200,Restaurant 200,Fast Food,West,2,3.61,48,Quick Bites,Vegan Friendly,Fast Food West Quick Bites Vegan Friendly price_2
+201,Restaurant 201,Italian,North,3,4.28,63,Fine Dining,Vegan Friendly,Italian North Fine Dining Vegan Friendly price_3
+202,Restaurant 202,Fast Food,Market,3,4.13,29,Casual,Mixed,Fast Food Market Casual Mixed price_3
+203,Restaurant 203,Mexican,Airport,4,3.51,49,Quick Bites,Vegetarian,Mexican Airport Quick Bites Vegetarian price_4
+204,Restaurant 204,Biryani,Riverside,2,4.08,37,Casual,Vegetarian,Biryani Riverside Casual Vegetarian price_2
+205,Restaurant 205,Mexican,South,2,4.06,33,Fine Dining,Vegetarian,Mexican South Fine Dining Vegetarian price_2
+206,Restaurant 206,Chinese,West,3,4.91,39,Cafe,Vegetarian,Chinese West Cafe Vegetarian price_3
+207,Restaurant 207,Cafe,Tech Park,2,4.5,36,Fine Dining,Mixed,Cafe Tech Park Fine Dining Mixed price_2
+208,Restaurant 208,Fast Food,South,3,4.11,36,Quick Bites,Vegetarian,Fast Food South Quick Bites Vegetarian price_3
+209,Restaurant 209,Chinese,South,2,4.21,31,Casual,Mixed,Chinese South Casual Mixed price_2
+210,Restaurant 210,Cafe,South,1,4.12,21,Casual,Mixed,Cafe South Casual Mixed price_1
+211,Restaurant 211,Chinese,Airport,1,4.01,20,Premium,Mixed,Chinese Airport Premium Mixed price_1
+212,Restaurant 212,Cafe,University,3,3.61,42,Cafe,Vegetarian,Cafe University Cafe Vegetarian price_3
+213,Restaurant 213,Cafe,Riverside,1,4.03,32,Casual,Vegetarian,Cafe Riverside Casual Vegetarian price_1
+214,Restaurant 214,Mexican,Riverside,2,3.76,29,Fine Dining,Mixed,Mexican Riverside Fine Dining Mixed price_2
+215,Restaurant 215,Cafe,Airport,2,3.54,35,Family,Mixed,Cafe Airport Family Mixed price_2
+216,Restaurant 216,Chinese,North,1,4.33,43,Premium,Vegan Friendly,Chinese North Premium Vegan Friendly price_1
+217,Restaurant 217,North Indian,Riverside,2,4.28,37,Family,Mixed,North Indian Riverside Family Mixed price_2
+218,Restaurant 218,North Indian,Central,3,3.3,28,Premium,Vegan Friendly,North Indian Central Premium Vegan Friendly price_3
+219,Restaurant 219,Mexican,West,1,4.04,47,Premium,Vegetarian,Mexican West Premium Vegetarian price_1
+220,Restaurant 220,Fast Food,Tech Park,3,4.55,51,Casual,Vegetarian,Fast Food Tech Park Casual Vegetarian price_3
+221,Restaurant 221,South Indian,East,3,4.58,40,Quick Bites,Vegetarian,South Indian East Quick Bites Vegetarian price_3
+222,Restaurant 222,Mexican,North,2,4.56,45,Cafe,Mixed,Mexican North Cafe Mixed price_2
+223,Restaurant 223,Cafe,North,1,4.12,47,Fine Dining,Vegan Friendly,Cafe North Fine Dining Vegan Friendly price_1
+224,Restaurant 224,Chinese,Riverside,2,3.72,46,Family,Vegetarian,Chinese Riverside Family Vegetarian price_2
+225,Restaurant 225,Cafe,East,1,3.61,41,Fine Dining,Mixed,Cafe East Fine Dining Mixed price_1
+226,Restaurant 226,Italian,East,2,4.26,41,Fine Dining,Vegetarian,Italian East Fine Dining Vegetarian price_2
+227,Restaurant 227,Desserts,Airport,4,4.27,40,Fine Dining,Vegetarian,Desserts Airport Fine Dining Vegetarian price_4
+228,Restaurant 228,Thai,North,4,4.68,24,Premium,Vegetarian,Thai North Premium Vegetarian price_4
+229,Restaurant 229,Thai,Airport,3,4.59,42,Fine Dining,Vegetarian,Thai Airport Fine Dining Vegetarian price_3
+230,Restaurant 230,South Indian,Airport,2,4.04,21,Quick Bites,Vegan Friendly,South Indian Airport Quick Bites Vegan Friendly price_2
+231,Restaurant 231,Mexican,Tech Park,3,3.54,27,Casual,Vegetarian,Mexican Tech Park Casual Vegetarian price_3
+232,Restaurant 232,Desserts,North,3,3.96,48,Family,Mixed,Desserts North Family Mixed price_3
+233,Restaurant 233,North Indian,North,2,4.2,43,Cafe,Mixed,North Indian North Cafe Mixed price_2
+234,Restaurant 234,Cafe,South,2,4.01,50,Casual,Vegetarian,Cafe South Casual Vegetarian price_2
+235,Restaurant 235,Mexican,Tech Park,1,3.84,32,Premium,Vegetarian,Mexican Tech Park Premium Vegetarian price_1
+236,Restaurant 236,Cafe,North,1,4.21,23,Cafe,Mixed,Cafe North Cafe Mixed price_1
+237,Restaurant 237,Biryani,West,2,3.87,33,Casual,Vegetarian,Biryani West Casual Vegetarian price_2
+238,Restaurant 238,Mexican,North,1,3.82,36,Premium,Vegan Friendly,Mexican North Premium Vegan Friendly price_1
+239,Restaurant 239,Italian,Tech Park,1,4.24,36,Family,Vegetarian,Italian Tech Park Family Vegetarian price_1
+240,Restaurant 240,Biryani,Central,3,3.92,46,Quick Bites,Mixed,Biryani Central Quick Bites Mixed price_3
+241,Restaurant 241,South Indian,University,4,4.21,31,Family,Mixed,South Indian University Family Mixed price_4
+242,Restaurant 242,Thai,Central,2,4.22,39,Fine Dining,Vegetarian,Thai Central Fine Dining Vegetarian price_2
+243,Restaurant 243,North Indian,North,3,3.59,25,Casual,Vegetarian,North Indian North Casual Vegetarian price_3
+244,Restaurant 244,Biryani,North,4,3.88,40,Fine Dining,Vegan Friendly,Biryani North Fine Dining Vegan Friendly price_4
+245,Restaurant 245,Biryani,Riverside,1,4.75,35,Cafe,Vegetarian,Biryani Riverside Cafe Vegetarian price_1
+246,Restaurant 246,North Indian,Central,2,3.58,28,Fine Dining,Vegetarian,North Indian Central Fine Dining Vegetarian price_2
+247,Restaurant 247,Cafe,West,2,3.15,33,Fine Dining,Vegetarian,Cafe West Fine Dining Vegetarian price_2
+248,Restaurant 248,Mexican,Tech Park,1,3.26,33,Family,Vegetarian,Mexican Tech Park Family Vegetarian price_1
+249,Restaurant 249,Cafe,Tech Park,3,4.11,32,Fine Dining,Mixed,Cafe Tech Park Fine Dining Mixed price_3
+250,Restaurant 250,North Indian,Market,2,4.11,53,Quick Bites,Mixed,North Indian Market Quick Bites Mixed price_2
+251,Restaurant 251,South Indian,Riverside,2,4.05,34,Fine Dining,Vegetarian,South Indian Riverside Fine Dining Vegetarian price_2
+252,Restaurant 252,Mexican,East,1,4.65,33,Fine Dining,Mixed,Mexican East Fine Dining Mixed price_1
+253,Restaurant 253,South Indian,Riverside,1,2.9,15,Quick Bites,Vegetarian,South Indian Riverside Quick Bites Vegetarian price_1
+254,Restaurant 254,Italian,East,3,4.28,26,Premium,Vegetarian,Italian East Premium Vegetarian price_3
+255,Restaurant 255,Biryani,Airport,1,4.8,32,Casual,Mixed,Biryani Airport Casual Mixed price_1
+256,Restaurant 256,South Indian,Tech Park,1,3.59,28,Casual,Vegan Friendly,South Indian Tech Park Casual Vegan Friendly price_1
+257,Restaurant 257,Biryani,University,2,3.93,49,Premium,Vegetarian,Biryani University Premium Vegetarian price_2
+258,Restaurant 258,South Indian,Riverside,2,3.76,33,Cafe,Vegetarian,South Indian Riverside Cafe Vegetarian price_2
+259,Restaurant 259,South Indian,University,2,3.7,48,Quick Bites,Mixed,South Indian University Quick Bites Mixed price_2
+260,Restaurant 260,Thai,Riverside,2,3.95,36,Premium,Mixed,Thai Riverside Premium Mixed price_2
+261,Restaurant 261,Cafe,Tech Park,1,4.74,35,Family,Vegetarian,Cafe Tech Park Family Vegetarian price_1
+262,Restaurant 262,South Indian,Central,1,4.93,34,Quick Bites,Vegetarian,South Indian Central Quick Bites Vegetarian price_1
+263,Restaurant 263,Chinese,West,3,3.95,35,Quick Bites,Mixed,Chinese West Quick Bites Mixed price_3
+264,Restaurant 264,Fast Food,North,2,4.96,52,Fine Dining,Vegetarian,Fast Food North Fine Dining Vegetarian price_2
+265,Restaurant 265,Fast Food,Riverside,2,4.12,15,Cafe,Vegetarian,Fast Food Riverside Cafe Vegetarian price_2
+266,Restaurant 266,Thai,South,3,4.89,15,Quick Bites,Vegetarian,Thai South Quick Bites Vegetarian price_3
+267,Restaurant 267,Mexican,South,3,4.06,30,Fine Dining,Vegetarian,Mexican South Fine Dining Vegetarian price_3
+268,Restaurant 268,Italian,South,1,4.16,35,Premium,Vegetarian,Italian South Premium Vegetarian price_1
+269,Restaurant 269,Biryani,Market,2,4.26,42,Fine Dining,Mixed,Biryani Market Fine Dining Mixed price_2
+270,Restaurant 270,Thai,Tech Park,2,5.0,40,Premium,Mixed,Thai Tech Park Premium Mixed price_2
+271,Restaurant 271,Chinese,Airport,2,4.48,31,Casual,Mixed,Chinese Airport Casual Mixed price_2
+272,Restaurant 272,North Indian,West,3,3.78,45,Premium,Vegan Friendly,North Indian West Premium Vegan Friendly price_3
+273,Restaurant 273,South Indian,South,2,4.54,45,Casual,Vegetarian,South Indian South Casual Vegetarian price_2
+274,Restaurant 274,Fast Food,Central,3,3.94,37,Casual,Vegetarian,Fast Food Central Casual Vegetarian price_3
+275,Restaurant 275,Mexican,Central,3,3.88,45,Fine Dining,Vegan Friendly,Mexican Central Fine Dining Vegan Friendly price_3
+276,Restaurant 276,Mexican,East,2,4.51,38,Cafe,Vegetarian,Mexican East Cafe Vegetarian price_2
+277,Restaurant 277,Mexican,Airport,3,4.11,29,Family,Mixed,Mexican Airport Family Mixed price_3
+278,Restaurant 278,Cafe,Tech Park,2,4.23,42,Fine Dining,Mixed,Cafe Tech Park Fine Dining Mixed price_2
+279,Restaurant 279,North Indian,Riverside,3,4.11,36,Casual,Vegetarian,North Indian Riverside Casual Vegetarian price_3
+280,Restaurant 280,North Indian,North,2,4.25,35,Family,Vegetarian,North Indian North Family Vegetarian price_2
+281,Restaurant 281,Chinese,Central,2,4.29,50,Cafe,Vegetarian,Chinese Central Cafe Vegetarian price_2
+282,Restaurant 282,Mexican,Riverside,2,3.23,15,Family,Vegetarian,Mexican Riverside Family Vegetarian price_2
+283,Restaurant 283,Biryani,North,1,4.4,21,Cafe,Vegetarian,Biryani North Cafe Vegetarian price_1
+284,Restaurant 284,Mexican,Central,2,3.66,23,Fine Dining,Vegetarian,Mexican Central Fine Dining Vegetarian price_2
+285,Restaurant 285,Mexican,West,4,3.45,31,Casual,Mixed,Mexican West Casual Mixed price_4
+286,Restaurant 286,Fast Food,Airport,2,4.07,32,Casual,Vegan Friendly,Fast Food Airport Casual Vegan Friendly price_2
+287,Restaurant 287,South Indian,Market,1,4.14,20,Fine Dining,Mixed,South Indian Market Fine Dining Mixed price_1
+288,Restaurant 288,Thai,Central,2,3.79,25,Quick Bites,Vegetarian,Thai Central Quick Bites Vegetarian price_2
+289,Restaurant 289,Thai,Riverside,1,4.47,26,Quick Bites,Vegetarian,Thai Riverside Quick Bites Vegetarian price_1
+290,Restaurant 290,Mexican,Riverside,1,3.5,60,Premium,Vegetarian,Mexican Riverside Premium Vegetarian price_1
+291,Restaurant 291,Desserts,Riverside,4,3.92,53,Premium,Vegetarian,Desserts Riverside Premium Vegetarian price_4
+292,Restaurant 292,Chinese,Airport,2,3.84,31,Cafe,Vegan Friendly,Chinese Airport Cafe Vegan Friendly price_2
+293,Restaurant 293,Fast Food,South,2,4.08,31,Quick Bites,Vegetarian,Fast Food South Quick Bites Vegetarian price_2
+294,Restaurant 294,Italian,Airport,2,4.23,24,Casual,Vegetarian,Italian Airport Casual Vegetarian price_2
+295,Restaurant 295,Thai,East,1,3.65,16,Quick Bites,Mixed,Thai East Quick Bites Mixed price_1
+296,Restaurant 296,Thai,Riverside,1,4.43,34,Cafe,Vegetarian,Thai Riverside Cafe Vegetarian price_1
+297,Restaurant 297,Desserts,Tech Park,3,4.13,25,Casual,Vegetarian,Desserts Tech Park Casual Vegetarian price_3
+298,Restaurant 298,Mexican,University,2,3.25,34,Premium,Vegetarian,Mexican University Premium Vegetarian price_2
+299,Restaurant 299,Chinese,Market,4,3.22,19,Cafe,Mixed,Chinese Market Cafe Mixed price_4
+300,Restaurant 300,North Indian,Market,2,4.09,27,Quick Bites,Mixed,North Indian Market Quick Bites Mixed price_2

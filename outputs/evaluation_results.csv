@@ -1,0 +1,4 @@
+metric,value
+Precision@10,0.026
+Hit Rate@10,0.26
+Evaluated Users,1000.0

@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,cuisine,area,price_level,rating,delivery_time_min,ambience,dietary_type,tags,popularity_score
+178,Restaurant 178,South Indian,Central,2,4.9,21,Quick Bites,Mixed,South Indian Central Quick Bites Mixed price_2,260
+194,Restaurant 194,Italian,Market,2,4.88,33,Fine Dining,Vegan Friendly,Italian Market Fine Dining Vegan Friendly price_2,233
+100,Restaurant 100,South Indian,East,2,5.0,46,Family,Vegetarian,South Indian East Family Vegetarian price_2,219
+177,Restaurant 177,Cafe,Riverside,2,5.0,59,Cafe,Vegetarian,Cafe Riverside Cafe Vegetarian price_2,214
+266,Restaurant 266,Thai,South,3,4.89,15,Quick Bites,Vegetarian,Thai South Quick Bites Vegetarian price_3,212
+74,Restaurant 074,South Indian,East,2,4.93,18,Fine Dining,Vegetarian,South Indian East Fine Dining Vegetarian price_2,211
+29,Restaurant 029,Thai,North,2,4.34,56,Cafe,Mixed,Thai North Cafe Mixed price_2,210
+264,Restaurant 264,Fast Food,North,2,4.96,52,Fine Dining,Vegetarian,Fast Food North Fine Dining Vegetarian price_2,206
+184,Restaurant 184,Biryani,University,2,4.66,33,Cafe,Vegetarian,Biryani University Cafe Vegetarian price_2,204
+66,Restaurant 066,Italian,Tech Park,2,5.0,40,Family,Mixed,Italian Tech Park Family Mixed price_2,201
+111,Restaurant 111,Chinese,North,3,4.77,38,Family,Mixed,Chinese North Family Mixed price_3,201
+270,Restaurant 270,Thai,Tech Park,2,5.0,40,Premium,Mixed,Thai Tech Park Premium Mixed price_2,200
+193,Restaurant 193,Biryani,University,2,4.86,34,Quick Bites,Mixed,Biryani University Quick Bites Mixed price_2,197
+195,Restaurant 195,Fast Food,South,3,4.71,24,Fine Dining,Mixed,Fast Food South Fine Dining Mixed price_3,197
+220,Restaurant 220,Fast Food,Tech Park,3,4.55,51,Casual,Vegetarian,Fast Food Tech Park Casual Vegetarian price_3,195
+55,Restaurant 055,Mexican,Airport,2,5.0,39,Quick Bites,Mixed,Mexican Airport Quick Bites Mixed price_2,194
+54,Restaurant 054,Mexican,West,2,4.82,35,Casual,Mixed,Mexican West Casual Mixed price_2,193
+9,Restaurant 009,Chinese,East,1,5.0,38,Premium,Vegan Friendly,Chinese East Premium Vegan Friendly price_1,192
+149,Restaurant 149,Desserts,Tech Park,1,4.76,31,Cafe,Vegetarian,Desserts Tech Park Cafe Vegetarian price_1,192
+106,Restaurant 106,Cafe,Tech Park,3,4.66,37,Cafe,Mixed,Cafe Tech Park Cafe Mixed price_3,189

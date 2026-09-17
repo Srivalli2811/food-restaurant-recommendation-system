@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,cuisine,area,price_level,rating,delivery_time_min,ambience,dietary_type,tags,similarity_score
+7,Restaurant 007,North Indian,East,2,3.62,23,Casual,Vegetarian,North Indian East Casual Vegetarian price_2,0.8802641335661535
+33,Restaurant 033,North Indian,East,3,4.34,24,Premium,Vegetarian,North Indian East Premium Vegetarian price_3,0.823627638316416
+243,Restaurant 243,North Indian,North,3,3.59,25,Casual,Vegetarian,North Indian North Casual Vegetarian price_3,0.8004917604464361
+279,Restaurant 279,North Indian,Riverside,3,4.11,36,Casual,Vegetarian,North Indian Riverside Casual Vegetarian price_3,0.7340892192033039
+133,Restaurant 133,North Indian,Riverside,3,4.39,39,Casual,Mixed,North Indian Riverside Casual Mixed price_3,0.6516353666968219
+103,Restaurant 103,Desserts,East,3,4.02,39,Casual,Mixed,Desserts East Casual Mixed price_3,0.6050797144160398
+221,Restaurant 221,South Indian,East,3,4.58,40,Quick Bites,Vegetarian,South Indian East Quick Bites Vegetarian price_3,0.6008916145124653
+118,Restaurant 118,South Indian,North,3,3.73,34,Premium,Vegetarian,South Indian North Premium Vegetarian price_3,0.5715645090113977
+147,Restaurant 147,North Indian,East,4,3.43,41,Cafe,Mixed,North Indian East Cafe Mixed price_4,0.570096241193072
+79,Restaurant 079,Thai,East,2,4.24,49,Casual,Vegetarian,Thai East Casual Vegetarian price_2,0.5638902633685099
